@@ -1,11 +1,10 @@
-Descrição da Atividade
+Descrição da Atividade 10
 
 O funcionamento de threads em Java, destaca diferentes níveis de prioridade e impactam a execução de tarefas. 
 A execução de Alta Prioridade é configurada com prioridade máxima e executa loops curtos com pausas (sleep(10)).
 Já a execução de Baixa Prioridade é configurada com prioridade mínima e executa loops infinitos imprimindo mensagens continuamente.
 
-Tendo como objetivo demonstrar a influência de prioridades no agendamento de threads pelo sistema operacional.
-Utilizando recursos como shutdown hooks para interromper as threads de maneira controlada.
+Seu objetivo é demonstrar a influência de prioridades no agendamento de threads pelo sistema operacional, utilizando recursos como shutdown hooks para interromper as threads de maneira controlada.
 
 Explicação do Código
 
